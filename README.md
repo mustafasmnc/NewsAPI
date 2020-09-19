@@ -12,3 +12,4 @@ https://newsapi.org
 
 ## Screenshots
 
+|![alt text](https://github.com/mustafasmnc/NewsAPI/blob/master/assets/screenshots/home.png)![alt text](https://github.com/mustafasmnc/NewsAPI/blob/master/assets/screenshots/article_view.png)
